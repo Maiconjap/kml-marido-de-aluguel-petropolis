@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.carretosp11.com/kml/carretosp11.kml</loc>
+        <lastmod>2023-10-27</lastmod> <!-- Opcional: Data da última modificação do KML -->
+        <!-- <changefreq>monthly</changefreq> --> <!-- Opcional: Frequência estimada de alteração -->
+        <!-- <priority>0.5</priority> --> <!-- Opcional: Prioridade relativa (geralmente não muito relevante hoje) -->
+    </url>
+    <!-- Se tiver mais arquivos KML, adicione outro bloco <url>...</url> para cada um -->
+</urlset>
